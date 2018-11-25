@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+* {    background-color: #3DDAE9;
+    
+}
+
+h1 {
+    color: #E76719;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content:center;
+    max-width: 720px;
+}
+
+#player {
+    margin: 0px 0px 0px 0px;
+    max-width: 720px;
+}
